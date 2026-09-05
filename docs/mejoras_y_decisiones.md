@@ -1,0 +1,3 @@
+# Mejoras y decisiones
+
+Lecturas 09:00 y 21:00. HX711 DT→GPIO4, SCK→GPIO5. Dashboard detecta salto de peso y pregunta Confirmar/Ignorar posible cambio de cilindro.
